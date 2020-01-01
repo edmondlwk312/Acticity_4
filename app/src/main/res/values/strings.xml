@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Acticity_4</string>
+    <string name="date">DD/MM/YYYY</string>
+    <string name="selectDate">Select Birth Date</string>
+    <string name="title">Required Basic Saving in Account 1</string>
+    <string name="age">Age</string>
+    <string name="savingAccount">Minimum Saving</string>
+    <string name="transferAccount">Maximum Transfer</string>
+</resources>
